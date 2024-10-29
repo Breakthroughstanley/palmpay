@@ -1,0 +1,29 @@
+.home img {
+  width: 84%;
+  height: 30vh;
+  margin-left: 8%;
+  margin-top: 80px;
+}
+
+.home h3 {
+  font-family: Means Web, Georgia, Times, Times New Roman, serif;
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: -0.03125rem;
+  margin-left: 8%;
+}
+
+.home h4 {
+  font-family: Means Web, Georgia, Times, Times New Roman, serif;
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: -0.03125rem;
+  margin-left: 33%;
+}
+
+.home .apple img {
+  width: 40%;
+  height: 30vh;
+  margin-left: 30%;
+  margin-top: 45px;
+}
